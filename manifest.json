@@ -5,5 +5,6 @@
   "minAppVersion": "0.12.0",
   "description": "Fetch RSS feed (e.g. from Kill the Newsletter) and save entries as cleaned HMTL markdown notes",
   "author": "Lars Gjessing",
+  "repo": "https://github.com/Gjessing1/Obsidian-RSS",
   "main": "main.js"
 }
