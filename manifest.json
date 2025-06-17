@@ -1,7 +1,7 @@
 {
   "id": "rss-to-note",
   "name": "RSS to Note",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "minAppVersion": "0.12.0",
   "description": "Fetch RSS feed (e.g. from Kill the Newsletter) and save entries as cleaned HMTL markdown notes",
   "author": "Lars Gjessing",
