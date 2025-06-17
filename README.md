@@ -2,9 +2,9 @@
 
 An Obsidian plugin that converts RSS feeds into notes, enabling seamless capture of newsletters and other RSS content directly into your vault.
 
-## Email Newsletter Integration
+## Email/Newsletter Integration
 
-This plugin works perfectly with **Kill the Newsletter** to convert email newsletters or emails into RSS feeds:
+This plugin works perfectly with **Kill the Newsletter** to convert email newsletters or emails into an RSS feed for note creation in Obisidan:
 
 1. Visit [kill-the-newsletter.com](https://kill-the-newsletter.com) and create a new inbox
 2. You'll receive a unique email address (e.g., `example_123@kill-the-newsletter.com`) and RSS feed URL
@@ -14,7 +14,7 @@ This plugin works perfectly with **Kill the Newsletter** to convert email newsle
 
 ## Installation
 
-This plugin is not yet available in the Community Plugin store. To install manually:
+This plugin is not yet available in the Community Plugin store as its pending review. To install manually:
 
 1. Download the latest release from  https://github.com/Gjessing1/Obsidian-RSS
 2. Create a folder named `rss-to-note` in your vault's plugins directory: `YourVault/.obsidian/plugins/`
