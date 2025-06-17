@@ -1,4 +1,4 @@
-# Obsidian-RSS
+# Obsidian-RSS (RSS to Note)
 Obsidian plugin to create a seamless workflow for easy capture of emails inside Obsidian. 
 
 
